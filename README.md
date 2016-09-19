@@ -1,4 +1,4 @@
-Lihtne Sring Boot REST veebirakendus.
+Lihtne Spring Boot REST veebirakendus.
 
 
 
